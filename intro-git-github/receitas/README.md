@@ -3,3 +3,4 @@
 2. Gelo
 3. Pinga com mel
 4. Suco de saquinho
+5. Goiabada
